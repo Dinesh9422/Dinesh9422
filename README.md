@@ -31,7 +31,7 @@ class DineshR:
     location   = "🌏 Salem, Tamil Nadu, India"
     degree     = "B.E CSE — 8.1 CGPA (2025)"
     college    = "AVS College of Technology"
-    role       = "Python Dev · IoT Engineer · Designer"
+    role       = "Python Dev · Frontend developer· Full stack"
 
     stack      = ["Python","OpenCV","Arduino","Firebase"]
     learning   = ["Swift 🍎", "Open Source ✦"]
